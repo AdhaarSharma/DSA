@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C++ Projects" Database="" Version="10000">
+  <Project Name="HelloWorld" Path="HelloWorld/HelloWorld.project" Active="No"/>
+  <VirtualDirectory Name="Self">
+    <Project Name="BST" Path="BST/BST.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Fundamentals">
+    <Project Name="VectorsWithPointers" Path="VectorsWithPointers/VectorsWithPointers.project" Active="No"/>
+    <Project Name="PrintingCharArray" Path="PrintingCharArray/PrintingCharArray.project" Active="No"/>
+    <Project Name="STL" Path="STL/STL.project" Active="No"/>
+    <Project Name="MapBasics" Path="MapBasics/MapBasics.project" Active="No"/>
+    <Project Name="OOP_Concept" Path="OOP_Concept/OOP_Concept.project" Active="No"/>
+    <Project Name="SpiralMatrixTraversal" Path="SpiralMatrixTraversal/SpiralMatrixTraversal.project" Active="No"/>
+    <Project Name="PassByValue" Path="PassByValue/PassByValue.project" Active="No"/>
+    <Project Name="Fibonacci_Series" Path="Fibonacci_Series/Fibonacci_Series.project" Active="No"/>
+    <Project Name="TowerOfHanoi" Path="TowerOfHanoi/TowerOfHanoi.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Trees">
+    <Project Name="BinarySearchTrees" Path="BinarySearchTrees/BinarySearchTrees.project" Active="No"/>
+    <Project Name="BinaryTreeCreation" Path="BinaryTreeCreation/BinaryTreeCreation.project" Active="No"/>
+    <Project Name="BinaryTreesUsingArrays" Path="BinaryTreesUsingArrays/BinaryTreesUsingArrays.project" Active="No"/>
+    <Project Name="BreadthFirstTraversalBinaryTree" Path="BreadthFirstTraversalBinaryTree/BreadthFirstTraversalBinaryTree.project" Active="No"/>
+    <Project Name="CheckIfBinaryTree" Path="CheckIfBinaryTree/CheckIfBinaryTree.project" Active="No"/>
+    <Project Name="CheckIfBinaryTreeOptimized" Path="CheckIfBinaryTreeOptimized/CheckIfBinaryTreeOptimized.project" Active="No"/>
+    <Project Name="ConstructBtFromPreOrderInOrder" Path="ConstructBtFromPreOrderInOrder/ConstructBtFromPreOrderInOrder.project" Active="No"/>
+    <Project Name="DeleteNodeBinaryTree" Path="DeleteNodeBinaryTree/DeleteNodeBinaryTree.project" Active="No"/>
+    <Project Name="InorderSuccessorBinaryTrees" Path="InorderSuccessorBinaryTrees/InorderSuccessorBinaryTrees.project" Active="No"/>
+    <Project Name="MaxHeightBinaryTree" Path="MaxHeightBinaryTree/MaxHeightBinaryTree.project" Active="No"/>
+    <Project Name="PreOrderInOrderPostOrderBinaryTrees" Path="PreOrderInOrderPostOrderBinaryTrees/PreOrderInOrderPostOrderBinaryTrees.project" Active="No"/>
+    <Project Name="IsBinaryTreeComplete" Path="IsBinaryTreeComplete/IsBinaryTreeComplete.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Trie">
+    <Project Name="InsertionAndSearch" Path="InsertionAndSearch/InsertionAndSearch.project" Active="No"/>
+    <Project Name="TrieDeletion" Path="TrieDeletion/TrieDeletion.project" Active="No"/>
+    <Project Name="PrintTrie" Path="PrintTrie/PrintTrie.project" Active="No"/>
+    <Project Name="ShortestUniquePrefix" Path="ShortestUniquePrefix/ShortestUniquePrefix.project" Active="No"/>
+    <Project Name="WordBreak" Path="WordBreak/WordBreak.project" Active="No"/>
+    <Project Name="PrintAnagransTogether" Path="PrintAnagransTogether/PrintAnagransTogether.project" Active="No"/>
+    <Project Name="PhoneDirectory" Path="PhoneDirectory/PhoneDirectory.project" Active="No"/>
+    <Project Name="PrefixUniqueRowBooleanMatrix" Path="PrefixUniqueRowBooleanMatrix/PrefixUniqueRowBooleanMatrix.project" Active="No"/>
+    <Project Name="PrintUniqueRowBooleanMatrixBST" Path="PrintUniqueRowBooleanMatrixBST/PrintUniqueRowBooleanMatrixBST.project" Active="No"/>
+    <Project Name="Test" Path="Test/Test.project" Active="No"/>
+    <Project Name="PrintUniqueRowBooleanMatrixTrie" Path="PrintUniqueRowBooleanMatrixTrie/PrintUniqueRowBooleanMatrixTrie.project" Active="No"/>
+    <Project Name="PrintUniqueRowBooleanMatrixHashMap" Path="PrintUniqueRowBooleanMatrixHashMap/PrintUniqueRowBooleanMatrixHashMap.project" Active="No"/>
+    <Project Name="ReorganizeString" Path="ReorganizeString/ReorganizeString.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Maps">
+    <Project Name="ArrayDivision" Path="ArrayDivision/ArrayDivision.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="String">
+    <Project Name="Anagram" Path="Anagram/Anagram.project" Active="No"/>
+    <Project Name="isAnagram" Path="isAnagram/isAnagram.project" Active="No"/>
+    <Project Name="ReorganizeString1" Path="ReorganizeString1/ReorganizeString1.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="PriorityQueues">
+    <Project Name="ImplementationUsingArrays" Path="ImplementationUsingArrays/ImplementationUsingArrays.project" Active="No"/>
+    <Project Name="ImplementUsingLinkedList" Path="ImplementUsingLinkedList/ImplementUsingLinkedList.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Heap">
+    <Project Name="BinaryHeapImplementation" Path="BinaryHeapImplementation/BinaryHeapImplementation.project" Active="No"/>
+    <Project Name="HeapSort" Path="HeapSort/HeapSort.project" Active="No"/>
+    <Project Name="SlidingWindowMaximumBruteForce" Path="SlidingWindowMaximumBruteForce/SlidingWindowMaximumBruteForce.project" Active="No"/>
+    <Project Name="SlidingWindowMaxHeap" Path="SlidingWindowMaxHeap/SlidingWindowMaxHeap.project" Active="No"/>
+    <Project Name="SlidingWindowMaxDeque" Path="SlidingWindowMaxDeque/SlidingWindowMaxDeque.project" Active="No"/>
+    <Project Name="kthSmallestElement" Path="kthSmallestElement/kthSmallestElement.project" Active="No"/>
+    <Project Name="kthLargestElement" Path="kthLargestElement/kthLargestElement.project" Active="No"/>
+    <Project Name="kthSmallestElementMaxHeap" Path="kthSmallestElementMaxHeap/kthSmallestElementMaxHeap.project" Active="No"/>
+    <Project Name="MergeKSortedArraysBrute" Path="MergeKSortedArraysBrute/MergeKSortedArraysBrute.project" Active="No"/>
+    <Project Name="MergeKSortedArrayDivideAndConquer" Path="MergeKSortedArrayDivideAndConquer/MergeKSortedArrayDivideAndConquer.project" Active="No"/>
+    <Project Name="MergeKSortedArraysHeapFixed" Path="MergeKSortedArraysHeapFixed/MergeKSortedArraysHeapFixed.project" Active="No"/>
+    <Project Name="MergeTwoBinaryHeaps" Path="MergeTwoBinaryHeaps/MergeTwoBinaryHeaps.project" Active="No"/>
+    <Project Name="MergeTwoBinaryHeaps" Path="MergeTwoBinaryHeaps/MergeTwoBinaryHeaps.project" Active="No"/>
+    <Project Name="mergeKSortedArraysDifferent" Path="mergeKSortedArraysDifferent/mergeKSortedArraysDifferent.project" Active="No"/>
+    <Project Name="MedianInTheDataStream" Path="MedianInTheDataStream/MedianInTheDataStream.project" Active="No"/>
+    <Project Name="MedianInTheDataStreamAlt" Path="MedianInTheDataStreamAlt/MedianInTheDataStreamAlt.project" Active="No"/>
+    <Project Name="kFrequentElements" Path="kFrequentElements/kFrequentElements.project" Active="No"/>
+    <Project Name="ReorganizeString" Path="ReorganizeString/ReorganizeString.project" Active="No"/>
+    <Project Name="ReorganizeString" Path="ReorganizeString/ReorganizeString.project" Active="No"/>
+    <Project Name="ReorganizeString1" Path="ReorganizeString1/ReorganizeString1.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Sorting">
+    <Project Name="QuickSort" Path="QuickSort/QuickSort.project" Active="No"/>
+    <Project Name="QuickSort1" Path="QuickSort1/QuickSort1.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Algorithms">
+    <Project Name="QuickSelect" Path="QuickSelect/QuickSelect.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Array">
+    <Project Name="Kadane's" Path="Kadane's/Kadane's.project" Active="No"/>
+    <Project Name="RainwaterTrappingProblem" Path="RainwaterTrappingProblem/RainwaterTrappingProblem.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Graph">
+    <Project Name="CreateUndirectedGraphAndPrint" Path="CreateUndirectedGraphAndPrint/CreateUndirectedGraphAndPrint.project" Active="No"/>
+    <Project Name="BFS" Path="BFS/BFS.project" Active="No"/>
+    <Project Name="DFS" Path="DFS/DFS.project" Active="No"/>
+    <Project Name="DetectCycleDirected" Path="DetectCycleDirected/DetectCycleDirected.project" Active="No"/>
+    <Project Name="DetectCycleUndirected" Path="DetectCycleUndirected/DetectCycleUndirected.project" Active="No"/>
+    <Project Name="RatInAMaze" Path="RatInAMaze/RatInAMaze.project" Active="No"/>
+    <Project Name="ShortestPathInBinaryMatrix" Path="ShortestPathInBinaryMatrix/ShortestPathInBinaryMatrix.project" Active="No"/>
+    <Project Name="MinimumKnightSteps" Path="MinimumKnightSteps/MinimumKnightSteps.project" Active="No"/>
+    <Project Name="MinimumKnightStep1" Path="MinimumKnightStep1/MinimumKnightStep1.project" Active="No"/>
+    <Project Name="FloodFill" Path="FloodFill/FloodFill.project" Active="No"/>
+    <Project Name="CloneAGraph" Path="CloneAGraph/CloneAGraph.project" Active="No"/>
+    <Project Name="CloneAGraph1" Path="CloneAGraph1/CloneAGraph1.project" Active="No"/>
+    <Project Name="MakeNetworkConnected" Path="MakeNetworkConnected/MakeNetworkConnected.project" Active="No"/>
+    <Project Name="Djikstra" Path="Djikstra/Djikstra.project" Active="No"/>
+    <Project Name="DjikstraOptimized" Path="DjikstraOptimized/DjikstraOptimized.project" Active="No"/>
+    <Project Name="TopologicalSort_CourseSchedule_II" Path="TopologicalSort_CourseSchedule_II/TopologicalSort_CourseSchedule_II.project" Active="No"/>
+    <Project Name="MinTimeEachJob_DAG" Path="MinTimeEachJob_DAG/MinTimeEachJob_DAG.project" Active="No"/>
+    <Project Name="CheckIfDAG_boolFinishAllTasksPossible" Path="CheckIfDAG_boolFinishAllTasksPossible/CheckIfDAG_boolFinishAllTasksPossible.project" Active="No"/>
+    <Project Name="NumberOfIslands" Path="NumberOfIslands/NumberOfIslands.project" Active="No"/>
+    <Project Name="AlienDictionary" Path="AlienDictionary/AlienDictionary.project" Active="No"/>
+    <Project Name="KahnAlgo_CourseSchedule_II" Path="KahnAlgo_CourseSchedule_II/KahnAlgo_CourseSchedule_II.project" Active="No"/>
+    <Project Name="DisjointSetCycleDetectionUndirected" Path="DisjointSetCycleDetectionUndirected/DisjointSetCycleDetectionUndirected.project" Active="No"/>
+    <Project Name="DisjointSetCycleDetectionUndirectedOptimized" Path="DisjointSetCycleDetectionUndirectedOptimized/DisjointSetCycleDetectionUndirectedOptimized.project" Active="No"/>
+    <Project Name="Kruskal" Path="Kruskal/Kruskal.project" Active="No"/>
+    <Project Name="Prim" Path="Prim/Prim.project" Active="No"/>
+    <Project Name="PrimOptimized" Path="PrimOptimized/PrimOptimized.project" Active="No"/>
+    <Project Name="BellmanFord" Path="BellmanFord/BellmanFord.project" Active="No"/>
+    <Project Name="FloydWarshall" Path="FloydWarshall/FloydWarshall.project" Active="No"/>
+    <Project Name="TravellingSalesmanProblem" Path="TravellingSalesmanProblem/TravellingSalesmanProblem.project" Active="No"/>
+    <Project Name="SnakeAndLadder" Path="SnakeAndLadder/SnakeAndLadder.project" Active="No"/>
+    <Project Name="FindTheBridge" Path="FindTheBridge/FindTheBridge.project" Active="No"/>
+    <Project Name="JourneyToTheMoon" Path="JourneyToTheMoon/JourneyToTheMoon.project" Active="No"/>
+    <Project Name="BipartiteGraph" Path="BipartiteGraph/BipartiteGraph.project" Active="No"/>
+    <Project Name="KosarajuAlgorithm" Path="KosarajuAlgorithm/KosarajuAlgorithm.project" Active="No"/>
+    <Project Name="NegativeCycle" Path="NegativeCycle/NegativeCycle.project" Active="No"/>
+    <Project Name="NegativeEdgeDisconnected" Path="NegativeEdgeDisconnected/NegativeEdgeDisconnected.project" Active="No"/>
+    <Project Name="ShortestPathDAGBellmanFord" Path="ShortestPathDAGBellmanFord/ShortestPathDAGBellmanFord.project" Active="No"/>
+    <Project Name="LongestPathDAGBellmanFord" Path="LongestPathDAGBellmanFord/LongestPathDAGBellmanFord.project" Active="No"/>
+    <Project Name="OliverAndTheGame" Path="OliverAndTheGame/OliverAndTheGame.project" Active="No"/>
+    <Project Name="kStopsFlight" Path="kStopsFlight/kStopsFlight.project" Active="No"/>
+    <Project Name="WaterJugProblem" Path="WaterJugProblem/WaterJugProblem.project" Active="No"/>
+    <Project Name="pathMoreThanK" Path="pathMoreThanK/pathMoreThanK.project" Active="No"/>
+    <Project Name="GraphColoringGreedy" Path="GraphColoringGreedy/GraphColoringGreedy.project" Active="No"/>
+    <Project Name="mColouringGraphBacktracking" Path="mColouringGraphBacktracking/mColouringGraphBacktracking.project" Active="No"/>
+    <Project Name="MinEdgesReversePathCompletion" Path="MinEdgesReversePathCompletion/MinEdgesReversePathCompletion.project" Active="No"/>
+    <Project Name="BridgeOfKonigsberg" Path="BridgeOfKonigsberg/BridgeOfKonigsberg.project" Active="No"/>
+    <Project Name="VertexCoverProblem" Path="VertexCoverProblem/VertexCoverProblem.project" Active="No"/>
+    <Project Name="EulerGraph" Path="EulerGraph/EulerGraph.project" Active="No"/>
+    <Project Name="NumberOfTrianglesInUndirectedGraph" Path="NumberOfTrianglesInUndirectedGraph/NumberOfTrianglesInUndirectedGraph.project" Active="No"/>
+    <Project Name="MinimizeCashflow" Path="MinimizeCashflow/MinimizeCashflow.project" Active="No"/>
+    <Project Name="TwoCliqueProblem" Path="TwoCliqueProblem/TwoCliqueProblem.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="SortingSearching">
+    <Project Name="FirstOccurrence" Path="FirstOccurrence/FirstOccurrence.project" Active="No"/>
+    <Project Name="LastOccurrence" Path="LastOccurrence/LastOccurrence.project" Active="No"/>
+    <Project Name="FixedPoint" Path="FixedPoint/FixedPoint.project" Active="No"/>
+    <Project Name="SearchInARotatedSortedArray" Path="SearchInARotatedSortedArray/SearchInARotatedSortedArray.project" Active="Yes"/>
+    <Project Name="SquareRootOfNumber" Path="SquareRootOfNumber/SquareRootOfNumber.project"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="HelloWorld" ConfigName="Debug"/>
+      <Project Name="BinarySearchTrees" ConfigName="Debug"/>
+      <Project Name="BST" ConfigName="Debug"/>
+      <Project Name="BinaryTreeCreation" ConfigName="Debug"/>
+      <Project Name="BinaryTreesUsingArrays" ConfigName="Debug"/>
+      <Project Name="MaxHeightBinaryTree" ConfigName="Debug"/>
+      <Project Name="BreadthFirstTraversalBinaryTree" ConfigName="Debug"/>
+      <Project Name="PreOrderInOrderPostOrderBinaryTrees" ConfigName="Debug"/>
+      <Project Name="CheckIfBinaryTree" ConfigName="Debug"/>
+      <Project Name="CheckIfBinaryTreeOptimized" ConfigName="Debug"/>
+      <Project Name="DeleteNodeBinaryTree" ConfigName="Debug"/>
+      <Project Name="InorderSuccessorBinaryTrees" ConfigName="Debug"/>
+      <Project Name="VectorsWithPointers" ConfigName="Debug"/>
+      <Project Name="ConstructBtFromPreOrderInOrder" ConfigName="Debug"/>
+      <Project Name="InsertionAndSearch" ConfigName="Debug"/>
+      <Project Name="TrieDeletion" ConfigName="Debug"/>
+      <Project Name="PrintTrie" ConfigName="Debug"/>
+      <Project Name="PrintingCharArray" ConfigName="Debug"/>
+      <Project Name="STL" ConfigName="Debug"/>
+      <Project Name="MapBasics" ConfigName="Debug"/>
+      <Project Name="OOP_Concept" ConfigName="Debug"/>
+      <Project Name="ArrayDivision" ConfigName="Debug"/>
+      <Project Name="ShortestUniquePrefix" ConfigName="Debug"/>
+      <Project Name="WordBreak" ConfigName="Debug"/>
+      <Project Name="isAnagram" ConfigName="Debug"/>
+      <Project Name="PrintAnagramsTogether" ConfigName="Debug"/>
+      <Project Name="PhoneDirectory" ConfigName="Debug"/>
+      <Project Name="PrintUniqueRowBooleanMatrixBrute" ConfigName="Debug"/>
+      <Project Name="PrintUniqueRowBooleanMatrixBST" ConfigName="Debug"/>
+      <Project Name="SpiralMatrixTraversal" ConfigName="Debug"/>
+      <Project Name="Test" ConfigName="Debug"/>
+      <Project Name="PrintUniqueRowBooleanMatrixTrie" ConfigName="Debug"/>
+      <Project Name="PrintUniqueRowBooleanMatrixHashMap" ConfigName="Debug"/>
+      <Project Name="ImplementationUsingArrays" ConfigName="Debug"/>
+      <Project Name="ImplementUsingLinkedList" ConfigName="Debug"/>
+      <Project Name="BinaryHeapImplementation" ConfigName="Debug"/>
+      <Project Name="HeapSort" ConfigName="Debug"/>
+      <Project Name="SlidingWindowMaximumBruteForce" ConfigName="Debug"/>
+      <Project Name="SlidingWindowMaxHeap" ConfigName="Debug"/>
+      <Project Name="SlidingWindowMaxDeque" ConfigName="Debug"/>
+      <Project Name="PassByValue" ConfigName="Debug"/>
+      <Project Name="kthSmallestElement" ConfigName="Debug"/>
+      <Project Name="kthSmallestElementMinHeap" ConfigName="Debug"/>
+      <Project Name="kthSmallestElementMaxHeap" ConfigName="Debug"/>
+      <Project Name="QuickSort" ConfigName="Debug"/>
+      <Project Name="QuickSort1" ConfigName="Debug"/>
+      <Project Name="QuickSelect" ConfigName="Debug"/>
+      <Project Name="Fibonacci_Series" ConfigName="Debug"/>
+      <Project Name="MergeKSortedArraysBrute" ConfigName="Debug"/>
+      <Project Name="MergeKSortedArrayDivideAndConquer" ConfigName="Debug"/>
+      <Project Name="MergeKSortedArraysHeapFixed" ConfigName="Debug"/>
+      <Project Name="MergeTwoBinaryHeaps" ConfigName="Debug"/>
+      <Project Name="MergeTwoBinaryHeaps" ConfigName="Debug"/>
+      <Project Name="MergeKSortedArraysDifferent" ConfigName="Debug"/>
+      <Project Name="TowerOfHanoi" ConfigName="Debug"/>
+      <Project Name="Kadane's" ConfigName="Debug"/>
+      <Project Name="IsBinaryTreeComplete" ConfigName="Debug"/>
+      <Project Name="ReorganizeString" ConfigName="Debug"/>
+      <Project Name="ReorganizeString" ConfigName="Debug"/>
+      <Project Name="ReorganizeString1" ConfigName="Debug"/>
+      <Project Name="RainwaterTrappingProblem" ConfigName="Debug"/>
+      <Project Name="MedianInTheDataStream" ConfigName="Debug"/>
+      <Project Name="MedianInTheDataStreamAlt" ConfigName="Debug"/>
+      <Project Name="kFrequentElements" ConfigName="Debug"/>
+      <Project Name="CreateUndirectedGraphAndPrint" ConfigName="Debug"/>
+      <Project Name="BFS" ConfigName="Debug"/>
+      <Project Name="DFS" ConfigName="Debug"/>
+      <Project Name="DetectCycleDirected" ConfigName="Debug"/>
+      <Project Name="DetectCycleUndirected" ConfigName="Debug"/>
+      <Project Name="RatInAMaze" ConfigName="Debug"/>
+      <Project Name="ShortestPathInBinaryMatrix" ConfigName="Debug"/>
+      <Project Name="MinimumKnightSteps" ConfigName="Debug"/>
+      <Project Name="MinimumKnightStep1" ConfigName="Debug"/>
+      <Project Name="FloodFill" ConfigName="Debug"/>
+      <Project Name="ReorganizeString" ConfigName="Debug"/>
+      <Project Name="ReorganizeString1" ConfigName="Debug"/>
+      <Project Name="CloneAGraph" ConfigName="Debug"/>
+      <Project Name="CloneAGraph1" ConfigName="Debug"/>
+      <Project Name="MakeNetworkConnected" ConfigName="Debug"/>
+      <Project Name="Djikstra" ConfigName="Debug"/>
+      <Project Name="DjikstraOptimized" ConfigName="Debug"/>
+      <Project Name="TopologicalSort_CourseSchedule_II" ConfigName="Debug"/>
+      <Project Name="MinTimeEachJob_DAG" ConfigName="Debug"/>
+      <Project Name="CheckIfDAG_boolFinishAllTasksPossible" ConfigName="Debug"/>
+      <Project Name="NumberOfIslands" ConfigName="Debug"/>
+      <Project Name="AlienDictionary" ConfigName="Debug"/>
+      <Project Name="KahnAlgo_CourseSchedule_II" ConfigName="Debug"/>
+      <Project Name="DisjointSetCycleDetectionUndirected" ConfigName="Debug"/>
+      <Project Name="DisjointSetCycleDetectionUndirectedOptimized" ConfigName="Debug"/>
+      <Project Name="Kruskal" ConfigName="Debug"/>
+      <Project Name="Prim" ConfigName="Debug"/>
+      <Project Name="PrimOptimized" ConfigName="Debug"/>
+      <Project Name="BellmanFord" ConfigName="Debug"/>
+      <Project Name="FloydWarshall" ConfigName="Debug"/>
+      <Project Name="TravellingSalesmanProblem" ConfigName="Debug"/>
+      <Project Name="SnakeAndLadder" ConfigName="Debug"/>
+      <Project Name="FindTheBridge" ConfigName="Debug"/>
+      <Project Name="JourneyToTheMoon" ConfigName="Debug"/>
+      <Project Name="BipartiteGraph" ConfigName="Debug"/>
+      <Project Name="KosarajuAlgorithm" ConfigName="Debug"/>
+      <Project Name="NegativeCycle" ConfigName="Debug"/>
+      <Project Name="NegativeEdgeDisconnected" ConfigName="Debug"/>
+      <Project Name="ShortestPathDAGBellmanFord" ConfigName="Debug"/>
+      <Project Name="LongestPathDAGBellmanFord" ConfigName="Debug"/>
+      <Project Name="OliverAndTheGame" ConfigName="Debug"/>
+      <Project Name="kStopsFlight" ConfigName="Debug"/>
+      <Project Name="WaterJugProblem" ConfigName="Debug"/>
+      <Project Name="pathMoreThanK" ConfigName="Debug"/>
+      <Project Name="GraphColoringGreedy" ConfigName="Debug"/>
+      <Project Name="mColouringGraphBacktracking" ConfigName="Debug"/>
+      <Project Name="MinEdgesReversePathCompletion" ConfigName="Debug"/>
+      <Project Name="BridgeOfKonigsberg" ConfigName="Debug"/>
+      <Project Name="VertexCoverProblem" ConfigName="Debug"/>
+      <Project Name="EulerGraph" ConfigName="Debug"/>
+      <Project Name="NumberOfTrianglesInUndirectedGraph" ConfigName="Debug"/>
+      <Project Name="NumberOfTrianglesInDir/UndirectedGraph" ConfigName="Debug"/>
+      <Project Name="MinimizeCashflow" ConfigName="Debug"/>
+      <Project Name="TwoCliqueProblem" ConfigName="Debug"/>
+      <Project Name="FirstOccurrence" ConfigName="Debug"/>
+      <Project Name="LastOccurrence" ConfigName="Debug"/>
+      <Project Name="FixedPoint" ConfigName="Debug"/>
+      <Project Name="SearchInARotatedSortedArray" ConfigName="Debug"/>
+      <Project Name="SquareRootOfNumber" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="HelloWorld" ConfigName="Release"/>
+      <Project Name="BinarySearchTrees" ConfigName="Release"/>
+      <Project Name="BST" ConfigName="Release"/>
+      <Project Name="BinaryTreeCreation" ConfigName="Release"/>
+      <Project Name="BinaryTreesUsingArrays" ConfigName="Release"/>
+      <Project Name="MaxHeightBinaryTree" ConfigName="Release"/>
+      <Project Name="BreadthFirstTraversalBinaryTree" ConfigName="Release"/>
+      <Project Name="PreOrderInOrderPostOrderBinaryTrees" ConfigName="Release"/>
+      <Project Name="CheckIfBinaryTree" ConfigName="Release"/>
+      <Project Name="CheckIfBinaryTreeOptimized" ConfigName="Release"/>
+      <Project Name="DeleteNodeBinaryTree" ConfigName="Release"/>
+      <Project Name="InorderSuccessorBinaryTrees" ConfigName="Release"/>
+      <Project Name="VectorsWithPointers" ConfigName="Release"/>
+      <Project Name="ConstructBtFromPreOrderInOrder" ConfigName="Release"/>
+      <Project Name="InsertionAndSearch" ConfigName="Release"/>
+      <Project Name="TrieDeletion" ConfigName="Release"/>
+      <Project Name="PrintTrie" ConfigName="Release"/>
+      <Project Name="PrintingCharArray" ConfigName="Release"/>
+      <Project Name="STL" ConfigName="Release"/>
+      <Project Name="MapBasics" ConfigName="Release"/>
+      <Project Name="OOP_Concept" ConfigName="Release"/>
+      <Project Name="ArrayDivision" ConfigName="Release"/>
+      <Project Name="ShortestUniquePrefix" ConfigName="Release"/>
+      <Project Name="WordBreak" ConfigName="Release"/>
+      <Project Name="isAnagram" ConfigName="Release"/>
+      <Project Name="PrintAnagramsTogether" ConfigName="Release"/>
+      <Project Name="PhoneDirectory" ConfigName="Release"/>
+      <Project Name="PrintUniqueRowBooleanMatrixBrute" ConfigName="Release"/>
+      <Project Name="PrintUniqueRowBooleanMatrixBST" ConfigName="Release"/>
+      <Project Name="SpiralMatrixTraversal" ConfigName="Release"/>
+      <Project Name="Test" ConfigName="Release"/>
+      <Project Name="PrintUniqueRowBooleanMatrixTrie" ConfigName="Release"/>
+      <Project Name="PrintUniqueRowBooleanMatrixHashMap" ConfigName="Release"/>
+      <Project Name="ImplementationUsingArrays" ConfigName="Release"/>
+      <Project Name="ImplementUsingLinkedList" ConfigName="Release"/>
+      <Project Name="BinaryHeapImplementation" ConfigName="Release"/>
+      <Project Name="HeapSort" ConfigName="Release"/>
+      <Project Name="SlidingWindowMaximumBruteForce" ConfigName="Release"/>
+      <Project Name="SlidingWindowMaxHeap" ConfigName="Release"/>
+      <Project Name="SlidingWindowMaxDeque" ConfigName="Release"/>
+      <Project Name="PassByValue" ConfigName="Release"/>
+      <Project Name="kthSmallestElement" ConfigName="Release"/>
+      <Project Name="kthSmallestElementMinHeap" ConfigName="Release"/>
+      <Project Name="kthSmallestElementMaxHeap" ConfigName="Release"/>
+      <Project Name="QuickSort" ConfigName="Release"/>
+      <Project Name="QuickSort1" ConfigName="Release"/>
+      <Project Name="QuickSelect" ConfigName="Release"/>
+      <Project Name="Fibonacci_Series" ConfigName="Release"/>
+      <Project Name="MergeKSortedArraysBrute" ConfigName="Release"/>
+      <Project Name="MergeKSortedArrayDivideAndConquer" ConfigName="Release"/>
+      <Project Name="MergeKSortedArraysHeapFixed" ConfigName="Release"/>
+      <Project Name="MergeTwoBinaryHeaps" ConfigName="Release"/>
+      <Project Name="MergeTwoBinaryHeaps" ConfigName="Release"/>
+      <Project Name="MergeKSortedArraysDifferent" ConfigName="Release"/>
+      <Project Name="TowerOfHanoi" ConfigName="Release"/>
+      <Project Name="Kadane's" ConfigName="Release"/>
+      <Project Name="IsBinaryTreeComplete" ConfigName="Release"/>
+      <Project Name="ReorganizeString" ConfigName="Release"/>
+      <Project Name="ReorganizeString" ConfigName="Release"/>
+      <Project Name="ReorganizeString1" ConfigName="Release"/>
+      <Project Name="RainwaterTrappingProblem" ConfigName="Release"/>
+      <Project Name="MedianInTheDataStream" ConfigName="Release"/>
+      <Project Name="MedianInTheDataStreamAlt" ConfigName="Release"/>
+      <Project Name="kFrequentElements" ConfigName="Release"/>
+      <Project Name="CreateUndirectedGraphAndPrint" ConfigName="Release"/>
+      <Project Name="BFS" ConfigName="Release"/>
+      <Project Name="DFS" ConfigName="Release"/>
+      <Project Name="DetectCycleDirected" ConfigName="Release"/>
+      <Project Name="DetectCycleUndirected" ConfigName="Release"/>
+      <Project Name="RatInAMaze" ConfigName="Release"/>
+      <Project Name="ShortestPathInBinaryMatrix" ConfigName="Release"/>
+      <Project Name="MinimumKnightSteps" ConfigName="Release"/>
+      <Project Name="MinimumKnightStep1" ConfigName="Release"/>
+      <Project Name="FloodFill" ConfigName="Release"/>
+      <Project Name="ReorganizeString" ConfigName="Release"/>
+      <Project Name="ReorganizeString1" ConfigName="Release"/>
+      <Project Name="CloneAGraph" ConfigName="Release"/>
+      <Project Name="CloneAGraph1" ConfigName="Release"/>
+      <Project Name="MakeNetworkConnected" ConfigName="Release"/>
+      <Project Name="Djikstra" ConfigName="Release"/>
+      <Project Name="DjikstraOptimized" ConfigName="Release"/>
+      <Project Name="TopologicalSort_CourseSchedule_II" ConfigName="Release"/>
+      <Project Name="MinTimeEachJob_DAG" ConfigName="Release"/>
+      <Project Name="CheckIfDAG_boolFinishAllTasksPossible" ConfigName="Release"/>
+      <Project Name="NumberOfIslands" ConfigName="Release"/>
+      <Project Name="AlienDictionary" ConfigName="Release"/>
+      <Project Name="KahnAlgo_CourseSchedule_II" ConfigName="Release"/>
+      <Project Name="DisjointSetCycleDetectionUndirected" ConfigName="Release"/>
+      <Project Name="DisjointSetCycleDetectionUndirectedOptimized" ConfigName="Release"/>
+      <Project Name="Kruskal" ConfigName="Release"/>
+      <Project Name="Prim" ConfigName="Release"/>
+      <Project Name="PrimOptimized" ConfigName="Release"/>
+      <Project Name="BellmanFord" ConfigName="Release"/>
+      <Project Name="FloydWarshall" ConfigName="Release"/>
+      <Project Name="TravellingSalesmanProblem" ConfigName="Release"/>
+      <Project Name="SnakeAndLadder" ConfigName="Release"/>
+      <Project Name="FindTheBridge" ConfigName="Release"/>
+      <Project Name="JourneyToTheMoon" ConfigName="Release"/>
+      <Project Name="BipartiteGraph" ConfigName="Release"/>
+      <Project Name="KosarajuAlgorithm" ConfigName="Release"/>
+      <Project Name="NegativeCycle" ConfigName="Release"/>
+      <Project Name="NegativeEdgeDisconnected" ConfigName="Release"/>
+      <Project Name="ShortestPathDAGBellmanFord" ConfigName="Release"/>
+      <Project Name="LongestPathDAGBellmanFord" ConfigName="Release"/>
+      <Project Name="OliverAndTheGame" ConfigName="Release"/>
+      <Project Name="kStopsFlight" ConfigName="Release"/>
+      <Project Name="WaterJugProblem" ConfigName="Release"/>
+      <Project Name="pathMoreThanK" ConfigName="Release"/>
+      <Project Name="GraphColoringGreedy" ConfigName="Release"/>
+      <Project Name="mColouringGraphBacktracking" ConfigName="Release"/>
+      <Project Name="MinEdgesReversePathCompletion" ConfigName="Release"/>
+      <Project Name="BridgeOfKonigsberg" ConfigName="Release"/>
+      <Project Name="VertexCoverProblem" ConfigName="Release"/>
+      <Project Name="EulerGraph" ConfigName="Release"/>
+      <Project Name="NumberOfTrianglesInUndirectedGraph" ConfigName="Release"/>
+      <Project Name="NumberOfTrianglesInDir/UndirectedGraph" ConfigName="Release"/>
+      <Project Name="MinimizeCashflow" ConfigName="Release"/>
+      <Project Name="TwoCliqueProblem" ConfigName="Release"/>
+      <Project Name="FirstOccurrence" ConfigName="Release"/>
+      <Project Name="LastOccurrence" ConfigName="Release"/>
+      <Project Name="FixedPoint" ConfigName="Release"/>
+      <Project Name="SearchInARotatedSortedArray" ConfigName="Release"/>
+      <Project Name="SquareRootOfNumber" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
